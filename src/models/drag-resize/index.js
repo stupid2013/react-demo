@@ -14,17 +14,5 @@ export default {
   effects: {
   },
   subscriptions: {
-    // setup({ dispatch, history }) {
-    //   return history.listen(({ pathname }) => {
-    //     if (pathname === '/hubble/show') {
-    //       dispatch({
-    //         type: 'stateWillUpdate',
-    //         payload: {
-    //           showType: 'show',
-    //         },
-    //       });
-    //     }
-    //   });
-    // },
   },
 };
